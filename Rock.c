@@ -1,3 +1,4 @@
+// Rock ,paper and scizzor game in C
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
